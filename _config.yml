@@ -5,37 +5,37 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
+  title: jd king
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Problem Solver, Developer, Writer, and Dad.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "jdking33@aol.com"
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble:
+  facebook:
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "https://github.com/jeffreydking04"
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram:
+  linkedin:  "www.linkedin.com/in/jeffrey-david-king-a46601b2"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter:
   wordpress:
   youtube:
 
@@ -45,8 +45,8 @@ theme_settings:
   katex: true # Enable if using math markup
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
+  str_follow_on:
+  str_rss_follow:
   str_email: "Email"
   str_next: "Next"
   str_prev: "Prev"
