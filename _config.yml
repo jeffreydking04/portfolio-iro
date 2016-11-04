@@ -72,3 +72,5 @@ sass:
   style: :compressed
 
 gems: [jekyll-paginate]
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
