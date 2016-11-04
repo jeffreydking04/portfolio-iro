@@ -48,6 +48,7 @@ PLATFORMS
 DEPENDENCIES
   bundler
   jekyll
+  kramdown
   puma
   rack-jekyll
   rake
