@@ -25,10 +25,10 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: "https://github.com/jeffreydking04"
+  github: "jeffreydking04"
   google_plus:
   instagram:
-  linkedin:  "www.linkedin.com/in/jeffrey-david-king-a46601b2"
+  linkedin:  "https://www.linkedin.com/in/jeffrey-david-king-a46601b2"
   pinterest:
   reddit:
   soundcloud:
@@ -73,5 +73,4 @@ sass:
 
 gems: [jekyll-paginate]
 
-gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
