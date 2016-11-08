@@ -7,11 +7,15 @@ short-description: The First Ride on Rails.
 
 ---
 #### Jump Around
+
+##### Time is Money
+* [Bloccit In 77 Words](#bottom-line)
+* [TL;DR](#tl-dr)
+
+##### Dead Cat Division (Curiosity Kills)
 * [What is Bloccit?](#bloccit)
-* [The Bottom Line](#bottom-line)
 * [Highlights](#highlights)
 * [Conclusion](#conclusion)
-* [TL;DR](#tl-dr)
 * [Skills and Concepts](#skills-and-concepts)
 
 ## <a name="bloccit"></a>What is Bloccit?
@@ -25,10 +29,6 @@ Yet to frame this accomplishment (for it is indeed a landmark accomplishment for
 It is that significance that this case study is meant to illuminate.  I do not know that my experience with Bloccit was substantially different than any other student's. However, you, the reader, are presumably here because I have directed you here in the hopes that you would discover...tidbits, for lack of a better word, that would entice you to pay me to write code.  With that strangely specific yet somehow nebulous purpose in mind, my barely unique version of Bloccit is transformed from an anonymous copy of others' work to a hugely relevant learning experience that must be included in a portfolio meant to translate my qualifications to the greater world. The recapitulation of Bloccit was almost certainly the most transformative learning experience of the first half of my Bloc education.  Not to include it would be a disservice to its importance as a gateway to the dev world.  The mirror of this of course is that it would certainly be a mistake to dismiss it because the code was spoonfed to me.  Bloccit is the foundation upon which my Rails' knowledge rests.
 
 The link above will take you to Bloccit and this [link](https://github.com/jeffreydking04/bloccit) will take you to the code that I did not author. Yet how Bloccit made me a ~~better~~ developer is more accurately assessed by meandering through this case study.
-
-## <a name="bottom-line"></a>The Bottom Line
-
-Bloccit is a challenging and extensive introduction to a wide variety of concepts and skills, many of which are listed below.  Although the idea that mastery of all the material presented can be achieved in such a short time frame is laughable, I feel I can nonetheless state with a certain confidence that Bloccit transformed me from a complete novice into a developer that is more than capable of creating, or contributing to, fairly sophisticated Rails' applications.
 
 ## <a name="highlights"></a>Highlights
 
@@ -68,7 +68,8 @@ The big ideas:
 * TDD
 
 Some of the techniques/supporting concepts that were implemented/introduced: 
-* Git version control 
+* Git version control
+* RSpec
 * DRY coding
 * Working with HTML, CSS, and a smattering of JS in a Rails' app
 * Installing and using Bootstrap
@@ -87,3 +88,7 @@ Some of the techniques/supporting concepts that were implemented/introduced:
 * Ajax
 * JSON
 * cURL
+
+## <a name="bottom-line"></a>The Bottom Line
+
+Bloccit is a challenging and extensive introduction to a wide variety of concepts and skills, many of which are listed above.  Although the idea that mastery of all the material presented can be achieved in such a short time frame is laughable, I feel I can nonetheless state with a certain confidence that Bloccit transformed me from a complete novice into a developer that is more than capable of creating, or contributing to, fairly sophisticated Rails' applications.
